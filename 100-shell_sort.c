@@ -32,7 +32,7 @@ void shell_sort(int *array, size_t size)
 		return;
 
 	for (vacant = 1; vacant < (size / 3);)
-		vacant *= 3 + 1;
+		vacant = vacant * 3 + 1;
 
 	for (; vacant >= 1; vacant /= 3)
 	{
