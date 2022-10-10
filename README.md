@@ -1,4 +1,4 @@
 THE BIG O
 SORTING ALGORITHMS
 DONE BY:
-EmmanuelPriest AND GPACHS
+EmmanuelPriest AND Gpachs
